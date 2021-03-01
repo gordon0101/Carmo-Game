@@ -1,7 +1,7 @@
 # Carmo-Game
 A 2D platformer fighting game, progress by finding the quest keys to proceed to a new map and unlock more items in the store. Fight the final boss to win! 
 
-![Trailer](https://github.com/gordon0101/Carmo-Game/blob/master/Carmo%20Trailer.mp4)
+[![Trailer](https://www.youtube.com/watch?v=bgWURTCV40g)](https://www.youtube.com/watch?v=bgWURTCV40g)
 
 
 Developed on Unity3D.
